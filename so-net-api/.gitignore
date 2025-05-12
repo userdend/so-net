@@ -1,0 +1,20 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio/VS Code
+.vscode/
+
+# ASP.NET Core secrets
+**/secrets.json
+
+# Rider project files
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
